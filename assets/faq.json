@@ -1,22 +1,22 @@
 [
 {
-  "question": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
- "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
+  "question": "Who is the product designed for?",
+ "answer": "Our daily emails are tailored for real estate professionals. Think of us as a daily digest — an essential read for every agent to kickstart their day."
 }, 
 {
-  "question": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
- "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
+  "question": "What are the different types of prices?",
+ "answer": "Display Price (labeled "price"): This reflects the most accurate pricing as mentioned on the listing.<br/> Price Guide (labeled "price guide"): This price is derived from the listing title.<br/> Algo Price Guide: An approximate price determined by our proprietary algorithm, aiming to provide a general idea of the property's market positioning. It's essential to understand that this price is indicative and should not be entirely relied upon for accuracy."
 }, 
 {
-  "question": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
- "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
+  "question": "What is 'price change data'?",
+ "answer": "We actively monitor listings for any price variations. If there's a discrepancy between yesterday's price and today's, we calculate the difference and present it in the email, indicating a positive or negative change."
 },
 {
-  "question": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
- "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
+  "question": "How often will I receive updates?",
+ "answer": "You'll receive our data updates through a daily email."
 }, 
 {
-  "question": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
- "answer": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s"
+  "question": "Can I share this information with my clients?",
+ "answer": "Yes, you may share the data with your clients at your own discretion. However, both Proping and Domain disclaim responsibility for the data's absolute accuracy. Please remember, our data is primarily for informational purposes and is curated specifically for real estate agents."
 }
 ]
