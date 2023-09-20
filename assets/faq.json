@@ -5,7 +5,7 @@
 }, 
 {
   "question": "What are the different types of prices?",
- "answer": "Display Price (labeled - price) reflects the most accurate pricing as mentioned on the listing. Price Guide (labeled - price guide) is derived from the listing title. Algo Price Guide, is an approximate price determined by our proprietary algorithm, aiming to provide a general idea of the property's market positioning. It's essential to understand that this price is indicative and should not be entirely relied upon for accuracy."
+ "answer": "Display Price (labeled - price) reflects the most accurate pricing as mentioned on the listing. Price Guide (labeled - price guide) is derived from the listing title. Proping Estimate, is an approximate price determined by our proprietary algorithm, aiming to provide a general idea of the property's market positioning. It's essential to understand that this price is indicative and should not be entirely relied upon for accuracy."
 }, 
 {
   "question": "What is 'price change data'?",
