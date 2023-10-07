@@ -1,81 +1,80 @@
-[ 
+[
   {
     "footerData": [
       {
-    "sectionHeading":"Section Heading",
-    "sectionLinks": [
-      {
-      "linkHeading":"Lorem Ipsum",
-        "linkUrl":"https://youtube.com"
-    },
-      {
-        "linkHeading":"Ipsum",
-        "linkUrl":"https://youtube.com"
+        "sectionHeading": "Section Heading",
+        "sectionLinks": [
+          {
+            "linkHeading": "Lorem Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Lorem",
+            "linkUrl": "https://youtube.com"
+          }
+        ]
       },
       {
-        "linkHeading":"Lorem",
-        "linkUrl":"https://youtube.com"
+        "sectionHeading": "Section Heading",
+        "sectionLinks": [
+          {
+            "linkHeading": "Lorem Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Lorem",
+            "linkUrl": "https://youtube.com"
+          }
+        ]
+      },
+      {
+        "sectionHeading": "Section Heading",
+        "sectionLinks": [
+          {
+            "linkHeading": "Lorem Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Lorem",
+            "linkUrl": "https://youtube.com"
+          }
+        ]
+      },
+      {
+        "sectionHeading": "Section Heading",
+        "sectionLinks": [
+          {
+            "linkHeading": "Lorem Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Ipsum",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Lorem",
+            "linkUrl": "https://youtube.com"
+          },
+          {
+            "linkHeading": "Lorem",
+            "linkUrl": "https://youtube.com"
+          }
+        ]
       }
-    ]
-  },
-  {
-    "sectionHeading":"Section Heading",
-    "sectionLinks": [
-      {
-      "linkHeading":"Lorem Ipsum",
-        "linkUrl":"https://youtube.com"
-    },
-      {
-        "linkHeading":"Ipsum",
-        "linkUrl":"https://youtube.com"
-      },
-      {
-        "linkHeading":"Lorem",
-        "linkUrl":"https://youtube.com"
-      }
-    ]
-  },
-  {
-    "sectionHeading":"Section Heading",
-    "sectionLinks": [
-      {
-      "linkHeading":"Lorem Ipsum",
-        "linkUrl":"https://youtube.com"
-    },
-      {
-        "linkHeading":"Ipsum",
-        "linkUrl":"https://youtube.com"
-      },
-      {
-        "linkHeading":"Lorem",
-        "linkUrl":"https://youtube.com"
-      }
-    ]
-  },
-  {
-    "sectionHeading":"Section Heading",
-    "sectionLinks": [
-      {
-      "linkHeading":"Lorem Ipsum",
-        "linkUrl":"https://youtube.com"
-    },
-      {
-        "linkHeading":"Ipsum",
-        "linkUrl":"https://youtube.com"
-      },
-      {
-        "linkHeading":"Lorem",
-        "linkUrl":"https://youtube.com"
-      },
-         {
-        "linkHeading":"Lorem",
-        "linkUrl":"https://youtube.com"
-      }
-    ]
-  }
-    ]
-  },
-  "footerDisclaimer" : "Everything you see here is just analysis we are not responsible for any accuracy and bla bla",
-  "footerEndText" : "Made with ❤️ in Australia"
+    ],
+    "footerDisclaimer": "Everything you see here is just analysis we are not responsible for any accuracy and bla bla",
+    "footerEndText": "Made with ❤️ in Australia"
   }
 ]
