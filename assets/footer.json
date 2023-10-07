@@ -1,7 +1,7 @@
 [
   {
     "sectionHeading":"Section Heading",
-    "SectionLinks": [
+    "sectionLinks": [
       {
       "linkHeading":"Lorem Ipsum",
         "linkUrl":"https://youtube.com"
@@ -18,7 +18,7 @@
   },
   {
     "sectionHeading":"Section Heading",
-    "SectionLinks": [
+    "sectionLinks": [
       {
       "linkHeading":"Lorem Ipsum",
         "linkUrl":"https://youtube.com"
@@ -35,7 +35,7 @@
   },
   {
     "sectionHeading":"Section Heading",
-    "SectionLinks": [
+    "sectionLinks": [
       {
       "linkHeading":"Lorem Ipsum",
         "linkUrl":"https://youtube.com"
@@ -52,7 +52,7 @@
   },
   {
     "sectionHeading":"Section Heading",
-    "SectionLinks": [
+    "sectionLinks": [
       {
       "linkHeading":"Lorem Ipsum",
         "linkUrl":"https://youtube.com"
