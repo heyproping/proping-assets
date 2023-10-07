@@ -1,74 +1,66 @@
 {
     "footerInfo": [
       {
-        "sectionHeading": "Section Heading",
+        "sectionHeading": "Product",
         "sectionLinks": [
           {
-            "linkHeading": "Lorem Ipsum",
+            "linkHeading": "How it works",
+            "linkUrl": "#how-it-works"
+          },
+          {
+            "linkHeading": "Benefits",
+            "linkUrl": "#benefits"
+          },
+          {
+            "linkHeading": "Reviews",
+            "linkUrl": "#reviews"
+          }
+        ]
+      },
+      {
+        "sectionHeading": "Company",
+        "sectionLinks": [
+          {
+            "linkHeading": "About Us",
             "linkUrl": "https://youtube.com"
           },
           {
-            "linkHeading": "Ipsum",
-            "linkUrl": "https://youtube.com"
-          },
-          {
-            "linkHeading": "Lorem",
+            "linkHeading": "Contact",
             "linkUrl": "https://youtube.com"
           }
         ]
       },
       {
-        "sectionHeading": "Section Heading",
+        "sectionHeading": "Resources",
         "sectionLinks": [
           {
-            "linkHeading": "Lorem Ipsum",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "Terms of Service",
+            "linkUrl": "https://proping.com.au/terms"
           },
           {
-            "linkHeading": "Ipsum",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "Privacy Policy",
+            "linkUrl": "https://proping.com.au/privacy"
           },
           {
-            "linkHeading": "Lorem",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "Login",
+            "linkUrl": "hhttps://app.proping.com.au"
           }
         ]
       },
       {
-        "sectionHeading": "Section Heading",
+        "sectionHeading": "Contact",
         "sectionLinks": [
           {
-            "linkHeading": "Lorem Ipsum",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "Get in touch",
+            "linkUrl": "https://proping.com.au/contact"
           },
           {
-            "linkHeading": "Ipsum",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "hello@proping.com.au",
+            "linkUrl": "mailTo:hello@proping.com.au"
           },
           {
-            "linkHeading": "Lorem",
-            "linkUrl": "https://youtube.com"
-          }
-        ]
-      },
-      {
-        "sectionHeading": "Section Heading",
-        "sectionLinks": [
-          {
-            "linkHeading": "Lorem Ipsum",
-            "linkUrl": "https://youtube.com"
-          },
-          {
-            "linkHeading": "Ipsum",
-            "linkUrl": "https://youtube.com"
-          },
-          {
-            "linkHeading": "Lorem",
-            "linkUrl": "https://youtube.com"
-          },
-          {
-            "linkHeading": "Lorem",
-            "linkUrl": "https://youtube.com"
+            "linkHeading": "0485 931 164",
+            "linkUrl": "tel:0485931164"
           }
         ]
       }
