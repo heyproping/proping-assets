@@ -22,11 +22,11 @@
         "sectionLinks": [
           {
             "linkHeading": "About Us",
-            "linkUrl": "https://youtube.com"
+            "linkUrl": "/about-us"
           },
           {
             "linkHeading": "Contact",
-            "linkUrl": "https://youtube.com"
+            "linkUrl": "/contact"
           }
         ]
       },
@@ -35,11 +35,11 @@
         "sectionLinks": [
           {
             "linkHeading": "Terms of Service",
-            "linkUrl": "https://proping.com.au/terms"
+            "linkUrl": "/terms"
           },
           {
             "linkHeading": "Privacy Policy",
-            "linkUrl": "https://proping.com.au/privacy"
+            "linkUrl": "/privacy"
           },
           {
             "linkHeading": "Login",
