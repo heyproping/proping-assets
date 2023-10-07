@@ -1,5 +1,7 @@
-[
+[ 
   {
+    "footerData": [
+      {
     "sectionHeading":"Section Heading",
     "sectionLinks": [
       {
@@ -71,5 +73,9 @@
       }
     ]
   }
-  
+    ]
+  },
+  "footerDisclaimer" : "Everything you see here is just analysis we are not responsible for any accuracy and bla bla",
+  "footerEndText" : "Made with ❤️ in Australia"
+  }
 ]
