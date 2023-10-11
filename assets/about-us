@@ -1,6 +1,7 @@
 {
 "mission":"Our mission is to make Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+"headerImage": "https://picsum.photos/200/300",
 "title":"What is Proping",
-"description":"Ajust is a technology platform that resolves complaints fast, fair and free for consumers. We understand that no one is perfect. Things go wrong, that’s part of life. What matters is what happens next…When a consumer has a bad experience with a business, they can use Ajust's intuitive platform to tell their story. Ajust then sends a complaint to the business with everything they need to resolve it. Ajust has resolved complaints for customers of Australia's biggest banks, telcos and energy providers."
-"Image": "https://picsum.photos/200/300"
+"description":"Ajust is a technology platform that resolves complaints fast, fair and free for consumers. We understand that no one is perfect. Things go wrong, that’s part of life. What matters is what happens next…When a consumer has a bad experience with a business, they can use Ajust's intuitive platform to tell their story. Ajust then sends a complaint to the business with everything they need to resolve it. Ajust has resolved complaints for customers of Australia's biggest banks, telcos and energy providers.",
+"image":"https://picsum.photos/200/300"
 }
