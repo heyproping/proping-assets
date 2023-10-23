@@ -9,7 +9,7 @@
 }, 
 {
   "question": "What are the different types of prices shown in our emails?",
- "answer": "The Listing Price (labeled as 'price') mirrors the most current price stated on the listing. The 'Price Guide' (labeled as 'price guide') is extracted from the listing's display title. 'Proping Estimate' is an approximate calculation by our proprietary algorithm, intended to offer a ballpark understanding of the property's market positioning. It's crucial to recognize that this estimate is indicative and shouldn't be solely relied upon for complete accuracy."
+ "answer": "The Listing Price (labeled as 'price') mirrors the most current price stated on the listing.<br/>The 'Price Guide' (labeled as 'price guide') is extracted from the listing's display title. 'Proping Estimate' is an approximate calculation by our proprietary algorithm, intended to offer a ballpark understanding of the property's market positioning. It's crucial to recognize that this estimate is indicative and shouldn't be solely relied upon for complete accuracy."
 }, 
 {
   "question": "What is 'price change data'?",
