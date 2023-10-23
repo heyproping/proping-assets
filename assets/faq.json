@@ -1,22 +1,30 @@
 [
-{
-  "question": "Who is the product designed for?",
- "answer": "Our daily emails are tailored for real estate professionals. Think of us as a daily digest — an essential read for every agent to kickstart their day."
+  {
+  "question": "What is Proping?",
+ "answer": "Proping is a daily email service for agents. Every morning, our agents receive a single email summarizing all the significant changes in their target suburbs. These changes encompass price alterations, new listings, recent sales, listings over 90 days, and unlisted properties."
 }, 
 {
-  "question": "What are the different types of prices?",
- "answer": "Display Price (labeled - price) reflects the most accurate pricing as mentioned on the listing. Price Guide (labeled - price guide) is derived from the listing title. Proping Estimate, is an approximate price determined by our proprietary algorithm, aiming to provide a general idea of the property's market positioning. It's essential to understand that this price is indicative and should not be entirely relied upon for accuracy."
+  "question": "Who is the product for?",
+ "answer": "Our daily emails are designed for real estate agents. We recognize the plethora of activities occurring each day within an agent's target market. New listings appear, properties are sold, prices fluctuate, and some listings are withdrawn. Agents often navigate through various platforms like REA and RP Data to stay updated. Proping serves as a one-stop-shop that agents can rely on at the start of their day. Consider us your daily digest—an indispensable briefing for every agent eager to jumpstart their morning."
+}, 
+{
+  "question": "What are the different types of prices shown in our emails?",
+ "answer": "The Listing Price (labeled as 'price') mirrors the most current price stated on the listing. The "Price Guide" (labeled as 'price guide') is extracted from the listing's display title. "Proping Estimate" is an approximate calculation by our proprietary algorithm, intended to offer a ballpark understanding of the property's market positioning. It's crucial to recognize that this estimate is indicative and shouldn't be solely relied upon for complete accuracy."
 }, 
 {
   "question": "What is 'price change data'?",
- "answer": "We actively monitor listings for any price variations. If there's a discrepancy between yesterday's price and today's, we calculate the difference and present it in the email, indicating a positive or negative change."
+ "answer": "We diligently track listings for any alterations in pricing. If we detect a variance between the price listed yesterday and the one today, we compute the change and feature it in the email, signifying whether the shift is positive or negative. This data indicates that listing agents have adjusted the price, and we strive to promptly inform our agents of such modifications in their target market."
 },
 {
   "question": "How often will I receive updates?",
- "answer": "You'll receive our data updates through a daily email."
+ "answer": "You will receive our comprehensive data updates via a daily email each morning."
 }, 
 {
   "question": "Can I share this information with my clients?",
- "answer": "Yes, you may share the data with your clients at your own discretion. However, both Proping and Domain disclaim responsibility for the data's absolute accuracy. Please remember, our data is primarily for informational purposes and is curated specifically for real estate agents."
+ "answer": "The decision to disseminate this data to your clients rests with you. However, both Proping and Domain expressly disclaim liability for the absolute precision of the data. It's paramount to acknowledge that our information is primarily intended for informational purposes, curated with real estate agents in mind."
+},
+  {
+  "question": "How do we acquire the data?",
+ "answer": "We source our data through our partnership with Domain. Our proprietary algorithm employs this raw data to craft the emails and notifications that we send out."
 }
 ]
